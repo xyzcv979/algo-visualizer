@@ -1,1 +1,6 @@
-Algorithm Visualizer Project in Java
+Algorithm Visualizer Project
+
+Languages:
+Java
+
+
